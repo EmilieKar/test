@@ -48,6 +48,8 @@ A header| Another header | Wow more headers
 A very | Interestingly divided | text about headers
 Because | Why | Not
 
+---
+
 ## extras
 
 - [x] :smile:
